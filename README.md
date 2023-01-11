@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Robert W. McBaan, based in Calgary, Alberta  (@mcbeanit)
+- 👋 Hi, I’m Robert W. McBean, based in Calgary, Alberta  (@mcbeanit)
 - 👀 I’m interested in C#, ASP.NET Core, SQL, Python,  design patterns, C/C++  and more
 - 🌱 I’m currently learning more about ASP.NET and small business.
 - 💞️ I’m looking to collaborate on software projects, and provide help for small businesses.
