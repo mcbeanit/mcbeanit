@@ -2,4 +2,4 @@
 - 👀 I’m interested in C#, ASP.NET Core, SQL, Python,  design patterns, C/C++  and more
 - 🌱 I’m currently learning more about ASP.NET and small business.
 - 💞️ I’m looking to collaborate on software projects, and provide help for small businesses.
-- 📫 How to reach me:  call at 512 9750  (403)  
+- 📫 How to reach me:  call at 921-4795  (403)  
